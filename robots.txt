@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Sitemap: https://truone01.github.io/lemon-squeezy-license-export/sitemap.xml
 Sitemap: https://truone01.github.io/entra-app-credential-expiry/sitemap.xml
+Sitemap: https://truone01.github.io/spf-lookup-check/sitemap.xml
